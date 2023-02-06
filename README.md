@@ -13,4 +13,4 @@ So far I have worked for such brands as HSBC, Twilio and Reckitt Benckiser.
 * Some [Nova](https://nova.app) plugins
 * My personal website revamp
 * My own framework to develop WordPress sites
-* My first mobile app using FLutter
+* My first mobile app using Flutter
