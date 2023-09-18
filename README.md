@@ -1,16 +1,14 @@
-# Hi there 👋
+# Hello there 👋
 
-I'm Adrian and I'm web developer with 8+ yrs of commercial experience. I'm focusing on ReactJS and PHP related topics. I also do web and app design.
+My name is Adrian and I deal with JavaScript on a daily basis, mainly as part of ReactJS. While 80% of my commitment goes in this direction, I also build my own framework for WordPress - I assume that it is a very underrated CMS, as well as the PHP language itself, which has been developing amazingly in recent years.
 
-On a daily basis I work with ReactJS, TypeScript and WordPress (in this order). I strongly prefer to work with vanilla solutions for simple reason - simplicity is beauty. There is nothing better than tailored solutions.
+In my work, I focus on quality and always look for the most optimal, best solutions for the end user. WordPress does not need to have 80+ plugins to be useful. In fact, the less I use the plugins, the better. I gain more control over the code, which results in easier debugging and development of the site in the future.
 
-I also have experience working with Python, Bash, PowerShell or Vue but these are not my preferred solutions. Recently I've started learning Dart and Flutter framework.
-
-So far I have worked for such brands as HSBC, Twilio and Reckitt Benckiser.
+Besides, my interest always goes towards potentially better solutions. Until now, I have also coded in Python, Rust, Dart, as well as written automation scripts in Bash or PowerShell.
 
 ## 🏗 Currently I'm working on...
 
-* Some [Nova](https://nova.app) plugins
-* My personal website revamp
 * My own framework to develop WordPress sites
-* My first mobile app using Flutter
+* My personal website revamp
+* My first desktop+mobile app using [Tauri](https://tauri.app)
+* Some [Nova](https://nova.app) plugins (For the moment only maintaining the code)
